@@ -34,7 +34,7 @@ To automatically create folders named from Q14 to Q45, each containing a file na
 
 ### Explanation of the Script
 
-- **Loop**: It starts from Q14 and goes up to Q45.
+- **Loop**: It starts from Q1 and goes up to Q45.
 - **Create Folder**: For each number, it creates a folder named `Q` followed by the number.
 - **Create File**: It then creates a file named `main.ts` within each folder.
 
